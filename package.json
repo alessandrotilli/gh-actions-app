@@ -1,0 +1,11 @@
+{
+  "name": "gh-actions-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alessandrotilli/gh-actions-app.git",
+  "author": "Alessandro Tilli <alessandro.tilli@bsmart.it>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
