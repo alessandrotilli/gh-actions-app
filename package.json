@@ -5,7 +5,13 @@
   "repository": "git@github.com:alessandrotilli/gh-actions-app.git",
   "author": "Alessandro Tilli <alessandro.tilli@bsmart.it>",
   "license": "MIT",
+  "scripts": {
+    "build": "node index.js"
+  },
   "dependencies": {
     "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
   }
 }
